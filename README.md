@@ -40,5 +40,6 @@
 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://app.netlify.com/teams/dboatengg/overview)
 
 
-## BLOG POSTS:
-- 
+## SAMPLE BLOG POSTS:
+- [A Simple Introduction to Getters and Setters in JavaScript (with examples)](https://boatengg.hashnode.dev/a-simple-introduction-to-getters-and-setters-in-javascript-with-examples)
+- [ Build a Modal Popup Box Using HTML, CSS, and JavaScript](https://boatengg.hashnode.dev/how-to-build-a-modal-popup-box-using-html-css-and-javascript)
