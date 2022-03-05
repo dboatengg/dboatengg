@@ -41,5 +41,6 @@
 
 
 ## SAMPLE BLOG POSTS:
-- [A Simple Introduction to Getters and Setters in JavaScript (with examples)](https://boatengg.hashnode.dev/a-simple-introduction-to-getters-and-setters-in-javascript-with-examples)
-- [ Build a Modal Popup Box Using HTML, CSS, and JavaScript](https://boatengg.hashnode.dev/how-to-build-a-modal-popup-box-using-html-css-and-javascript)
+- [Build A Real-time Changing Digital Clock Using HTML, CSS & JavaScript](https://dev.to/dboatenggg/build-a-real-time-changing-digital-clock-using-html-css-javascript-689)
+- [ Build a Modal Popup Box Using HTML, CSS, and JavaScript](https://dev.to/dboatenggg/how-to-build-a-modal-popup-box-using-html-css-and-javascript-3ofj)
+- [A Quick Introduction To Block-Element-Modifier](https://dev.to/dboatenggg/a-quick-introduction-to-block-element-modifier-bem-for-beginners-34fg)
