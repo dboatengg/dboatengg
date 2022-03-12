@@ -41,7 +41,7 @@
 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://app.netlify.com/teams/dboatengg/overview)
 
 
-## SAMPLE BLOG POSTS:
+## RECENT BLOG POSTS:
 - [Build A Real-time Changing Digital Clock Using HTML, CSS & JavaScript](https://dev.to/dboatenggg/build-a-real-time-changing-digital-clock-using-html-css-javascript-689)
 - [ Build a Modal Popup Box Using HTML, CSS, and JavaScript](https://dev.to/dboatenggg/how-to-build-a-modal-popup-box-using-html-css-and-javascript-3ofj)
 - [A Quick Introduction To Block-Element-Modifier](https://dev.to/dboatenggg/a-quick-introduction-to-block-element-modifier-bem-for-beginners-34fg)
