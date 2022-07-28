@@ -3,9 +3,8 @@
 
 ## Software developer & Technical Writer
 
-- :email: You can contact me at dicksonboateng00@gmail.com
-- :handshake:  I'm open to collaborating on interesting projects
-- :black_heart: I love chocolates
+- :email: Contact me at dicksonboateng00@gmail.com
+- :handshake:  Open to collaborating on interesting projects
 
 
 ### Skills
