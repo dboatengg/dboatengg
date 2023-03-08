@@ -1,22 +1,35 @@
-# Hi there 👋
+# Hi there! 👋
 
-## I'm just a person who loves fox very much 🦊
+I'm Dickson, a front-end developer and technical writer based in Accra, Ghana. I enjoy crafting beautiful and intuitive user interfaces, while also turning complex concepts into easy-to-digest content.
 
----
+## Recent Projects
 
-## 🛠️ Tools
+### Project 1: Snap
+Snap allows users to create, edit, and delete notes in real-time. This app is built using React and Firebase.
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"  title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-</div>
+[Link to GitHub repository](https://github.com/dboatengg/snap)
 
 
----
+### Project 2: Burger House
+Burger House is a Responsive ReactJS Landing Page Website.
 
-## 📊 Stats
+[Link to GitHub repository](https://github.com/dboatengg/burger-house)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dboatengg&hide=Procfile&layout=compact&theme=github_dark&hide_border=true)](https://github.com/dboatengg)
+
+
+## Skills
+
+-   HTML/CSS
+-   TailwindCSS
+-   Bootstrap
+-   JavaScript
+-   React
+-   Firebase
+
+## Contact Me
+
+-   Email: [dicksonboateng@proton.me](mailto:dicksonboateng@proton.me)
+-   LinkedIn: [dboatengx/](https://www.linkedin.com/in/dboatengx/)
+-   Writings [FreeCodeCamp]: [Author@dboateng](https://www.freecodecamp.org/news/author/dboateng/)
+
+Thanks for checking out my profile! Feel free to reach out if you have any questions or just want to chat.
