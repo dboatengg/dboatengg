@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Dickson, a front-end developer and technical writer based in Accra, Ghana. I enjoy crafting beautiful and intuitive user interfaces, while also turning complex concepts into easy-to-digest content.
+I'm Dickson, a front-end developer and technical writer based in Accra, Ghana. I enjoy crafting beautiful, intuitive user interfaces while turning complex concepts into easy-to-digest content.
 
 ## Recent Projects
 
