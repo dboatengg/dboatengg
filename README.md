@@ -32,4 +32,4 @@ Burger House is a Responsive ReactJS Landing Page Website.
 -   LinkedIn: [dboatengx/](https://www.linkedin.com/in/dboatengx/)
 -   Writings [FreeCodeCamp]: [Author@dboateng](https://www.freecodecamp.org/news/author/dboateng/)
 
-Thanks for checking out my profile! Feel free to reach out if you have any questions or just want to chat.
+Thanks for checking out my profile! Feel free to reach out if you have questions or want to chat.
