@@ -2,7 +2,7 @@
 
 I'm Dickson!
 <br>
-A Frontend Developer & Technical Writer
+A Frontend Developer & Technical Writer.
 <br>
 I enjoy crafting beautiful, intuitive user interfaces while turning complex concepts into easy-to-digest content.
 <br>
