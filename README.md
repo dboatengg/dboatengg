@@ -1,7 +1,6 @@
 # Hi there! 👋
 
-I'm Dickson!
-<br>
+### I'm Dickson!
 A Frontend Developer & Technical Writer.
 <br>
 I enjoy crafting beautiful, intuitive user interfaces while turning complex concepts into easy-to-digest content.
@@ -21,4 +20,4 @@ I enjoy crafting beautiful, intuitive user interfaces while turning complex conc
 -   Email: [dicksonboateng@proton.me](mailto:dicksonboateng@proton.me)
 -   Twitter: [alege_dev](https://www.twitter.com/alege_dev)
 
-Thanks for checking out my profile! Feel free to reach out if you have questions or want to chat.
+Thanks for checking out my profile! 
