@@ -11,7 +11,7 @@ I enjoy crafting beautiful, intuitive user interfaces while turning complex conc
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100" title="React"/>
   <img src="https://i.imgur.com/FNgBliV.png" width="100" title="Redux"/>
   <img src="https://i.giphy.com/media/Ri2TUcKlaOcaDBxFpY/200.webp" width="110" title="Firebase"/>
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="GitHub"/>
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="Git/GitHub"/>
 </p>
 
 
