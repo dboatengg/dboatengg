@@ -17,8 +17,7 @@ I enjoy crafting beautiful, intuitive user interfaces while turning complex conc
 <br>
 
 <p align="left" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dboatengg&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dboatengg" height=200 /> &nbsp; 
-  <br><br>  
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dboatengg&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dboatengg" height=200 /> &nbsp;  -->
   <img src="https://github-readme-stats.vercel.app/api?username=dboatengg&show_icons=true&locale=en&theme=tokyonight" alt="dboatengg" height=200 />
 </p>
 
