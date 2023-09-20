@@ -1,10 +1,9 @@
 # Hi there! 👋
 
 ### I'm Dickson!
-Experienced Frontend Developer & Technical Writer.
+Frontend Developer & Writer.
 <br>
-I enjoy crafting beautiful, intuitive user interfaces while turning complex concepts into easy-to-digest content.
-<br>
+
 <p>
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="JavaScript"/>
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100" title="React"/>
