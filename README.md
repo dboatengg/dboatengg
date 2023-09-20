@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ### I'm Dickson!
-Frontend Developer & Writer.
+I'm a frontend developer & writer.
 <br>
 
 <p>
