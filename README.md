@@ -1,20 +1,14 @@
 # Hi there! 👋
 
 ### I'm Dickson!
-I'm a frontend developer & writer.
+I'm a frontend developer.
 <br>
-
-<p>
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="JavaScript"/>
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100" title="React"/>
-  <img src="https://i.giphy.com/media/Ri2TUcKlaOcaDBxFpY/200.webp" width="110" title="TypeScript"/>
-</p>
 
 ## My Github Activity
 <br>
 
 <p align="left" >
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dboatengg&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dboatengg" height=200 /> &nbsp;  -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dboatengg&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dboatengg" height=200 /> &nbsp;  -->
   <img src="https://github-readme-stats.vercel.app/api?username=dboatengg&show_icons=true&locale=en&theme=tokyonight" alt="dboatengg" height=200 />
 </p>
 
