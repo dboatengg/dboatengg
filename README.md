@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ### I'm Dickson!
-I'm a Software Developer.
+A Software Developer.
 
 ## A Little About Me
 I didn’t start my career in a traditional Computer Science program. I began my university journey studying Occupational Therapy at the University of Ghana, an unexpected detour from my original plan to pursue tech.
