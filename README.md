@@ -25,7 +25,7 @@ Today, I work fully in web development and have had the privilege of collaborati
 
 ## Publications
 - [Asynchronous Programming in JavaScript – Guide for Beginners](https://www.freecodecamp.org/news/asynchronous-programming-in-javascript/)
-- [Next.js Tutorial for Beginners](https://dicksonboateng.com/blog/nextjs-tutorial-part-one)
+- [Next.js Tutorial for Beginners](https://dicksonboateng.com/blog/nextjs-tutorial-beginners)
 - [How to Use the React Context API in Your Projects](https://www.freecodecamp.org/news/context-api-in-react/)
 - [How the Document Object Model Works in JavaScript](https://www.freecodecamp.org/news/javascript-dom/)
 
