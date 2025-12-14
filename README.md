@@ -4,11 +4,9 @@
 A Software Developer.
 
 ## A Little About Me
-I didn’t start my career in a traditional Computer Science program. I began my university journey studying Occupational Therapy at the University of Ghana, an unexpected detour from my original plan to pursue tech.
+I didn’t start my career in a traditional Computer Science program. I began my university journey studying Occupational Therapy at the University of Ghana.
 
 But even while studying that degree, I kept learning about technology on my own, taking online courses, building small projects, and staying connected to the tech communities on Twitter and Reddit.
-
-That persistence eventually brought me back to software development, where I’ve been able to combine analytical thinking and empathy from my background with the technical skills I’ve built over the years.
 
 Today, I work fully in web development and have had the privilege of collaborating with engineers and designers from diverse backgrounds.
 <br>
